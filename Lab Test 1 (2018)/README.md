@@ -4,18 +4,9 @@ Lab Test solutions are provided by the contributors and are should be used ASIS.
 
 You're recommended to do the Lab Test yourself first, before looking at the solutions.
 
-## Contributors
-
-Many special thanks to this contributors
-
-| Name           | Profile |
-|:--------------:|:------------:|
-|Amos            |[@alphatrl](https://github.com/alphatrl)|
-|Chester         |[@chesterhow](https://github.com/chesterhow)|
-
 ## Contributing
 
-If you would like to share your knowledge with others,  contribute to open source or even join this list, now is your chance!
+If you would like to share your knowledge with others,  contribute to open source or even join the Contributors list, now is your chance!
 
 Read the [contribution docs](../contribution.md) for more information
 
