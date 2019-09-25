@@ -1,7 +1,26 @@
 # start of answer
 
 def reverse_num(number):
-    return None # added so that this script will run. feel free to modify it
+
+  is_negative = False
+  
+  # remember the number is a -ve number
+  # then convert it to a +ve number
+  if number < 0:
+    is_negative = True
+    number = number * -1
+
+  # convert int to string
+  # reverse string
+  # convert reversed string back to int
+  reverse_number = int((str(number))[::-1])
+
+  # if it is originally a -ve number
+  # convert it back
+  if is_negative:
+    reverse_number = reverse_number * -1
+
+  return reverse_number
 
 # end of answer
 

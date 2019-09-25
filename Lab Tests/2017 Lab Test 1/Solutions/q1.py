@@ -1,6 +1,14 @@
 # start of answer
 def get_longest_word(first, second, third):
-    return None # added so that this script will run. feel free to modify it
+
+  longest_word = ''
+  word_list = [first, second, third]
+
+  for word in word_list:
+    if len(word) > len(longest_word):
+      longest_word = word
+
+  return longest_word
 
 # end of answer
 

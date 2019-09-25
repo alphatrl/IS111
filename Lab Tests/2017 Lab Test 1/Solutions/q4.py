@@ -1,7 +1,24 @@
 # start of answer
 
 def find_tags(sentence):
-    return None # added so that this script will run. feel free to modify it
+  tag_list = []
+  length = len(sentence)
+  count = 0
+
+  while count < length:
+    # if a [ is found case
+    if sentence[count] == '[':
+      count += 1
+    
+      tag = str(len(tag_list) + 1) + '-'
+      while sentence[count] != ']':
+        tag += sentence[count]
+        count += 1
+      tag_list.append(tag)
+
+    else:
+      count += 1
+  return ','.join(tag_list)
 
 # end of answer
 
