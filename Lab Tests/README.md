@@ -4,7 +4,11 @@ Compilation of Lab Tests from the past years
 
 ## Note
 
-Use this as additional materials for your self-learning. The files are provided ASIS and any answers provided in here are not the official solutions provided by the school.
+Use this as additional materials for your self-learning. 
+
+Lab Test solutions are provided by the contributors and are should be used ASIS. They are not the official solutions and should be use it for revision at your own risk.
+
+You're recommended to do the Lab Test yourself first, before looking at the solutions.
 
 ## Contributors
 
