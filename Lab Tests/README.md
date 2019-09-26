@@ -1,6 +1,6 @@
 # Lab Test Compilation
 
-Compulilation of Lab Tests from the past years
+Compilation of Lab Tests from the past years
 
 ## Note
 
