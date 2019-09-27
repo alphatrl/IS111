@@ -21,6 +21,5 @@ def display_strings(str_list, ch):
     new_string_list.append(new_string)
 
   # print if not empty
-  if len(new_string_list) > 0:
-    for string in new_string_list:
-      print(string)
+  for string in new_string_list:
+    print(string)
